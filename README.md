@@ -3,4 +3,5 @@ These are the Javascript Exercises set by The Coders Guild JAMStack Web and App 
 
 # Challenges
 - Lesson 9 (Programming Concepts) - Tip Calculator in Javascript
-- Lesson 10 - 
+- Lesson 10 (Functions and Control Flow) - Write a Function that outputs a sentence
+- 
