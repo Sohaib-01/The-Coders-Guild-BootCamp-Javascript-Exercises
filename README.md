@@ -2,4 +2,4 @@
 These are the Javascript Exercises set by The Coders Guild JAMStack Web and App Development Course.
 
 # Challenges
-*Lesson 9 - Tip Calculator
+*Bullet list Lesson 9 - Tip Calculator
